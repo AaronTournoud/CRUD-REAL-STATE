@@ -1,0 +1,86 @@
+#EXTM3U
+#EXTINF:-1  group-title="Fulbo",ESPN Premium SD
+http://181.13.252.102:8001/play/a078/index.m3u8
+
+#EXTINF:-1  group-title="Fulbo",ESPN Premium HD
+http://181.209.37.74:8000/play/a086/index.m3u8
+
+#EXTINF:-1 group-title="Fulbo",Telefe
+http://45.238.54.67:8000/play/b02e/index.m3u8
+
+#EXTINF:-1 group-title="Fulbo",TV Publica
+http://181.209.37.74:8001/play/a095/index.m3u8
+
+#EXTINF:-1 group-title="Fulbo",TNT Sports
+http://181.209.37.74:8001/play/a06z/index.m3u8
+
+#EXTINF:-1 group-title="Fulbo",TNT Sports SD
+http://181.13.252.102:8000/play/a0bc/index.m3u8
+
+#EXTINF:-1 group-title="Fulbo",TNT Sports HD
+http://138.121.114.91:8000/play/a06z/index.m3u8
+
+#EXTINF:-1 group-title="Fulbo",TyC Sports
+http://181.209.37.74:8001/play/a06x/index.m3u8
+
+#EXTINF:-1 group-title="Fulbo",TyC Sports SD
+http://181.13.252.102:8000/play/a02s/index.m3u8
+
+#EXTINF:-1 group-title="Fulbo",TNT Sports HD
+http://138.121.114.91:8000/play/a06x/index.m3u8
+
+#EXTINF:-1 group-title="Fulbo", DSport (Directv)
+http://38.252.213.12:8000/play/a01k
+
+#EXTINF:-1 group-title="Fulbo", DSport HD (Directv)
+http://179.63.6.12:9000/play/a01k
+
+#EXTINF:-1 group-title="Fulbo", DSport 2 (Directv)
+http://179.63.6.9:8000/play/a00f
+
+#EXTINF:-1 group-title="Fulbo", DSport 2 HD (Directv)
+http://38.187.3.110:8000/play/a04m/index.m3u8
+
+#EXTINF:-1 group-title="Fulbo", DSport + (Directv)
+http://217.26.190.76:8888/play/a0jb/index.m3u8
+
+#EXTINF:-1 group-title="Fulbo", DSport + HD (Directv)
+http://177.53.152.117:8000/play/a07q/index.m3u8
+
+#EXTINF:-1 group-title="Fulbo", Fox Sports
+http://181.209.37.74:8001/play/a085/index.m3u8
+
+#EXTINF:-1 group-title="Fulbo", ESPN
+http://200.39.57.254.8008/play/a0ej/index.m3u8
+
+#EXTINF:-1 group-title="Fulbo", ESPN ARG
+http://181.209.37.74:8001/play/a099/index.m3u8
+
+#EXTINF:-1 group-title="Fulbo", ESPN ARG HD
+http://45.238.54.67.8000/play/a052/index.m3u8
+
+#EXTINF:-1 group-title="Fulbo", ESPN 2
+http://181.13.252.102:8000/play/a059/index.m3u8
+
+#EXTINF:-1 group-title="Fulbo", ESPN 3
+http://181.13.252.102:8000/play/a05b/index.m3u8
+
+#EXTINF:-1 group-title="Fulbo", ESPN 4
+http://181.209.37.74:8001/play/a084/index.m3u8
+
+#EXTINF:-1 group-title="Fulbo", ESPN 5
+http://181.224.200.5:2277/play/a02k/index.m3u8
+
+#EXTINF:-1 group-title="Fulbo", ESPN 6
+http://181.224.200.5:2277/play/a02h/index.m3u8
+
+#EXTINF:-1 group-title="Fulbo", ESPN 7
+http://181.224.200.5:2277/play/a02l/index.m3u8
+
+
+
+
+
+
+
+
